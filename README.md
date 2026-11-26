@@ -2,7 +2,7 @@
 
 C# / Avalonia Nintendo Switch emulator continuation (`git.ryujinx.app` / Ryubing line) built around accuracy, multiplayer LDN room browsing, and LayeredFS mod support.
 
-<img width="1280" height="1338" alt="images1" src="https://github.com/user-attachments/assets/4e3f09b6-9e54-48a7-81c8-131b4764f6c2" />
+<img width="280" height="280" alt="images1" src="https://github.com/user-attachments/assets/4e3f09b6-9e54-48a7-81c8-131b4764f6c2" />
 <img width="1200" height="675" alt="images2" src="https://github.com/user-attachments/assets/a96699b7-6111-40a0-9faa-e4faf9f85fe1" />
 
 
